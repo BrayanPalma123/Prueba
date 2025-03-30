@@ -2,7 +2,7 @@ Prueba 1
 
 Equipo: Los Kemonitos
 
-Integrantes:
+Integrantes:  
 		*Checo Perez
 		*Paco
 		*Cesar Alonso
